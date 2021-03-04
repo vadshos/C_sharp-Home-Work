@@ -1,0 +1,13 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\bin\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\bin\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).deps.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\bin\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\bin\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\bin\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\bin\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\obj\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\obj\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\obj\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\obj\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\obj\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\obj\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book)\obj\Debug\netcoreapp3.1\Home Work C_Sharp Arrays(Book).genruntimeconfig.cache

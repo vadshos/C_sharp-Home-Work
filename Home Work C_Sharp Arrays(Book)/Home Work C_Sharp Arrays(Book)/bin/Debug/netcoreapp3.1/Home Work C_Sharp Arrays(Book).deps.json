@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Home Work C_Sharp Arrays(Book)/1.0.0": {
+        "runtime": {
+          "Home Work C_Sharp Arrays(Book).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Home Work C_Sharp Arrays(Book)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home Work C_Sharp Arrays(Book)", "Home Work C_Sharp Arrays(Book)\Home Work C_Sharp Arrays(Book).csproj", "{BA49A9C0-D6C1-44C1-A54F-5E7387712B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA49A9C0-D6C1-44C1-A54F-5E7387712B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA49A9C0-D6C1-44C1-A54F-5E7387712B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA49A9C0-D6C1-44C1-A54F-5E7387712B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA49A9C0-D6C1-44C1-A54F-5E7387712B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99D67E83-CA55-4858-BDDA-83E8405F9384}
+	EndGlobalSection
+EndGlobal
