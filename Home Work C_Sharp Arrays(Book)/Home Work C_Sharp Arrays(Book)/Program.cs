@@ -88,13 +88,14 @@ namespace Arrays
         }
         public void removeBookByCipher(string cipher)
         {
-            Book[] temp = new Book[books.Length -1];
-            Array.Copy(books, temp, books.Length);
             int index = Array.FindIndex(books,e=>e.Cipher == cipher);
             if(index != -1)
             {
-                Array.Copy(books, temp, index+1);
-                Array.Copy(books,index,temp,books.Length-1, books.Length - index-1);
+                 Book[] temp = new Book[books.Length-1];
+                Array.Copy(books, temp, index);
+
+                Array.Copy(books,index,temp,books.Length-1, books.Length -index -1);
+                books = new Book[temp.Length];
                 books = temp;
             }
         }
