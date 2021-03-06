@@ -118,7 +118,8 @@ namespace Arrays
             }
             else
             {
-                return new Book("", "", "", 0);
+                 throw new Exception("didn't find book by author " + author);
+
             }
         }
         public Book SearchByTitle(string title)
@@ -130,7 +131,8 @@ namespace Arrays
             }
             else
             {
-                return new Book("","","",0);
+                   throw new Exception("didn't find book by title " + title);
+
             }
 
         }
