@@ -1,0 +1,13 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\bin\Debug\netcoreapp3.1\Home Work Jugged.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\bin\Debug\netcoreapp3.1\Home Work Jugged.deps.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\bin\Debug\netcoreapp3.1\Home Work Jugged.runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\bin\Debug\netcoreapp3.1\Home Work Jugged.runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\bin\Debug\netcoreapp3.1\Home Work Jugged.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\bin\Debug\netcoreapp3.1\Home Work Jugged.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\obj\Debug\netcoreapp3.1\Home Work Jugged.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\obj\Debug\netcoreapp3.1\Home Work Jugged.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\obj\Debug\netcoreapp3.1\Home Work Jugged.AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\obj\Debug\netcoreapp3.1\Home Work Jugged.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\obj\Debug\netcoreapp3.1\Home Work Jugged.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\obj\Debug\netcoreapp3.1\Home Work Jugged.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Jugged\Home Work Jugged\obj\Debug\netcoreapp3.1\Home Work Jugged.genruntimeconfig.cache
