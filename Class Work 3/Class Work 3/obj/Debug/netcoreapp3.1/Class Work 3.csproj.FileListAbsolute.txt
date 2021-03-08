@@ -1,0 +1,13 @@
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\bin\Debug\netcoreapp3.1\Class Work 3.exe
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\bin\Debug\netcoreapp3.1\Class Work 3.deps.json
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\bin\Debug\netcoreapp3.1\Class Work 3.runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\bin\Debug\netcoreapp3.1\Class Work 3.runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\bin\Debug\netcoreapp3.1\Class Work 3.dll
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\bin\Debug\netcoreapp3.1\Class Work 3.pdb
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\obj\Debug\netcoreapp3.1\Class Work 3.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\obj\Debug\netcoreapp3.1\Class Work 3.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\obj\Debug\netcoreapp3.1\Class Work 3.AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\obj\Debug\netcoreapp3.1\Class Work 3.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\obj\Debug\netcoreapp3.1\Class Work 3.dll
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\obj\Debug\netcoreapp3.1\Class Work 3.pdb
+D:\Study IT STEP academy\C_sharp-Class-Work\Class Work 3\Class Work 3\obj\Debug\netcoreapp3.1\Class Work 3.genruntimeconfig.cache
