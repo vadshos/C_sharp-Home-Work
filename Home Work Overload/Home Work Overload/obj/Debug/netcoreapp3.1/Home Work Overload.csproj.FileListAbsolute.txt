@@ -1,0 +1,13 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\bin\Debug\netcoreapp3.1\Home Work Overload.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\bin\Debug\netcoreapp3.1\Home Work Overload.deps.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\bin\Debug\netcoreapp3.1\Home Work Overload.runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\bin\Debug\netcoreapp3.1\Home Work Overload.runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\bin\Debug\netcoreapp3.1\Home Work Overload.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\bin\Debug\netcoreapp3.1\Home Work Overload.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\obj\Debug\netcoreapp3.1\Home Work Overload.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\obj\Debug\netcoreapp3.1\Home Work Overload.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\obj\Debug\netcoreapp3.1\Home Work Overload.AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\obj\Debug\netcoreapp3.1\Home Work Overload.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\obj\Debug\netcoreapp3.1\Home Work Overload.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\obj\Debug\netcoreapp3.1\Home Work Overload.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work Overload\Home Work Overload\obj\Debug\netcoreapp3.1\Home Work Overload.genruntimeconfig.cache
