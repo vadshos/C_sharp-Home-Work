@@ -73,8 +73,6 @@ namespace Home_Work_Jugged
                 new int[8],
                 new int[3],
                 new int[7]
-
-
             };
             FillRandJugged(jug);
             PrintJugged(jug);

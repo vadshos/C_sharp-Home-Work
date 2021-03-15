@@ -1,0 +1,7 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 6 Overload Indexator\Home Work 6 Overload Indexator\bin\Debug\Home Work 6 Overload Indexator.exe.config
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 6 Overload Indexator\Home Work 6 Overload Indexator\bin\Debug\Home Work 6 Overload Indexator.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 6 Overload Indexator\Home Work 6 Overload Indexator\bin\Debug\Home Work 6 Overload Indexator.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 6 Overload Indexator\Home Work 6 Overload Indexator\obj\Debug\Home Work 6 Overload Indexator.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 6 Overload Indexator\Home Work 6 Overload Indexator\obj\Debug\Home Work 6 Overload Indexator.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 6 Overload Indexator\Home Work 6 Overload Indexator\obj\Debug\Home Work 6 Overload Indexator.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 6 Overload Indexator\Home Work 6 Overload Indexator\obj\Debug\Home Work 6 Overload Indexator.pdb

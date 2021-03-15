@@ -8,7 +8,6 @@ namespace Home_Work_Overload
     {
 
         private int _x, _y;
-        private double _length = 0;
         public Vector(int x, int y)
         {
             X = x;
@@ -16,13 +15,12 @@ namespace Home_Work_Overload
         }
         public double Length
         {
-            get => _length;
-            private set => Math.Sqrt(Math.Pow(X, 2) + Math.Pow(Y, 2));
+            get => Math.Sqrt(Math.Pow(X, 2) + Math.Pow(Y, 2));
         }
         public int X
         {
             get => _x;
-            set { _x = value; Length = 0; }
+            set =>_x = value; 
         }
         public int Y
         {
@@ -104,6 +102,10 @@ namespace Home_Work_Overload
                 return false;
             }
             return vF.Equals(vS);
+        }
+        public static implicit operator Vector(int v)
+        {
+            return new Vector(v,0);
         }
         public static bool operator !=(Vector vF, Vector vS)
         {

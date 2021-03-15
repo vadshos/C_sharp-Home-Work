@@ -29,7 +29,8 @@ namespace Home_Work_Overload
             Console.WriteLine(++v);
             Console.WriteLine(v.GetHashCode());
             Console.WriteLine(v2.GetHashCode());
-
+            v = 3;
+            Console.WriteLine(v);
         }
     }
 }
