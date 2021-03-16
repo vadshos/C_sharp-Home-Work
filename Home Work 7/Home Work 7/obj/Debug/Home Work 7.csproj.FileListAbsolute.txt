@@ -1,0 +1,7 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 7\Home Work 7\bin\Debug\Home Work 7.exe.config
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 7\Home Work 7\bin\Debug\Home Work 7.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 7\Home Work 7\bin\Debug\Home Work 7.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 7\Home Work 7\obj\Debug\Home Work 7.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 7\Home Work 7\obj\Debug\Home Work 7.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 7\Home Work 7\obj\Debug\Home Work 7.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Home Work 7\Home Work 7\obj\Debug\Home Work 7.pdb
