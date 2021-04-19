@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book Inumerable", "Book Inumerable\Book Inumerable.csproj", "{5AE748EF-B3ED-495D-9031-89D38559558F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{EC48A4A5-68E5-49EB-82C4-F6C87CD93647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE748EF-B3ED-495D-9031-89D38559558F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE748EF-B3ED-495D-9031-89D38559558F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE748EF-B3ED-495D-9031-89D38559558F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE748EF-B3ED-495D-9031-89D38559558F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC48A4A5-68E5-49EB-82C4-F6C87CD93647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC48A4A5-68E5-49EB-82C4-F6C87CD93647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC48A4A5-68E5-49EB-82C4-F6C87CD93647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC48A4A5-68E5-49EB-82C4-F6C87CD93647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5CFD3A-8361-4458-AB3B-174CB9A549C0}
+	EndGlobalSection
+EndGlobal

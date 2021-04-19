@@ -1,0 +1,16 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\bin\Debug\net5.0\Car racing.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\bin\Debug\net5.0\Car racing.deps.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\bin\Debug\net5.0\Car racing.runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\bin\Debug\net5.0\Car racing.runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\bin\Debug\net5.0\Car racing.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\bin\Debug\net5.0\ref\Car racing.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\bin\Debug\net5.0\Car racing.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\obj\Debug\net5.0\Car racing.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\obj\Debug\net5.0\Car racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\obj\Debug\net5.0\Car racing.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\obj\Debug\net5.0\Car racing.AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\obj\Debug\net5.0\Car racing.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\obj\Debug\net5.0\Car racing.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\obj\Debug\net5.0\ref\Car racing.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\obj\Debug\net5.0\Car racing.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Calculator\Car racing\obj\Debug\net5.0\Car racing.genruntimeconfig.cache

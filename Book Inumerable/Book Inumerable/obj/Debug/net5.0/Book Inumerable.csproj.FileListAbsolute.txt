@@ -1,0 +1,16 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\bin\Debug\net5.0\Book Inumerable.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\bin\Debug\net5.0\Book Inumerable.deps.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\bin\Debug\net5.0\Book Inumerable.runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\bin\Debug\net5.0\Book Inumerable.runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\bin\Debug\net5.0\Book Inumerable.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\bin\Debug\net5.0\ref\Book Inumerable.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\bin\Debug\net5.0\Book Inumerable.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\obj\Debug\net5.0\Book Inumerable.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\obj\Debug\net5.0\Book Inumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\obj\Debug\net5.0\Book Inumerable.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\obj\Debug\net5.0\Book Inumerable.AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\obj\Debug\net5.0\Book Inumerable.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\obj\Debug\net5.0\Book Inumerable.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\obj\Debug\net5.0\ref\Book Inumerable.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\obj\Debug\net5.0\Book Inumerable.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Book Inumerable\obj\Debug\net5.0\Book Inumerable.genruntimeconfig.cache

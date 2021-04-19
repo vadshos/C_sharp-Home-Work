@@ -1,0 +1,16 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\bin\Debug\net5.0\Delegate.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\bin\Debug\net5.0\Delegate.deps.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\bin\Debug\net5.0\Delegate.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\bin\Debug\net5.0\Delegate.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\obj\Debug\net5.0\Delegate.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\obj\Debug\net5.0\Delegate.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\obj\Debug\net5.0\Delegate.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Book Inumerable\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
