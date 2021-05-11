@@ -1,0 +1,16 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\obj\Debug\net5.0\Jugged FileStream.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\obj\Debug\net5.0\Jugged FileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\obj\Debug\net5.0\Jugged FileStream.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\obj\Debug\net5.0\Jugged FileStream.AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\obj\Debug\net5.0\Jugged FileStream.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\bin\Debug\net5.0\Jugged FileStream.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\bin\Debug\net5.0\Jugged FileStream.deps.json
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\bin\Debug\net5.0\Jugged FileStream.runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\bin\Debug\net5.0\Jugged FileStream.runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\bin\Debug\net5.0\Jugged FileStream.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\bin\Debug\net5.0\ref\Jugged FileStream.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\bin\Debug\net5.0\Jugged FileStream.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\obj\Debug\net5.0\Jugged FileStream.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\obj\Debug\net5.0\ref\Jugged FileStream.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\obj\Debug\net5.0\Jugged FileStream.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\Jugged FileStream\obj\Debug\net5.0\Jugged FileStream.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeC_sharp 14 Dispose FileStream", "HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream.csproj", "{1DDF9D15-D0E8-49EB-A1BC-6CD0A43C1091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jugged FileStream", "Jugged FileStream\Jugged FileStream.csproj", "{A7FF0CF8-A1F2-410A-B9CD-E2577F1C50C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDF9D15-D0E8-49EB-A1BC-6CD0A43C1091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDF9D15-D0E8-49EB-A1BC-6CD0A43C1091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDF9D15-D0E8-49EB-A1BC-6CD0A43C1091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDF9D15-D0E8-49EB-A1BC-6CD0A43C1091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FF0CF8-A1F2-410A-B9CD-E2577F1C50C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FF0CF8-A1F2-410A-B9CD-E2577F1C50C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FF0CF8-A1F2-410A-B9CD-E2577F1C50C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FF0CF8-A1F2-410A-B9CD-E2577F1C50C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F82D3FB-2C88-47BE-B133-9ADF42D62787}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HomeC_sharp 14 Dispose FileStream/1.0.0": {
+        "runtime": {
+          "HomeC_sharp 14 Dispose FileStream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeC_sharp 14 Dispose FileStream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

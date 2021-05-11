@@ -1,0 +1,16 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\bin\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\bin\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.deps.json
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\bin\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\bin\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\bin\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\bin\Debug\net5.0\ref\HomeC_sharp 14 Dispose FileStream.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\bin\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\obj\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\obj\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\obj\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\obj\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\obj\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\obj\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\obj\Debug\net5.0\ref\HomeC_sharp 14 Dispose FileStream.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\obj\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\HomeC_sharp 14 Dispose FileStream\HomeC_sharp 14 Dispose FileStream\obj\Debug\net5.0\HomeC_sharp 14 Dispose FileStream.genruntimeconfig.cache
