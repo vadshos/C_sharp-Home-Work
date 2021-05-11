@@ -1,0 +1,16 @@
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\bin\Debug\net5.0\HomeC_sharp 07 interfaces.exe
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\bin\Debug\net5.0\HomeC_sharp 07 interfaces.deps.json
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\bin\Debug\net5.0\HomeC_sharp 07 interfaces.runtimeconfig.json
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\bin\Debug\net5.0\HomeC_sharp 07 interfaces.runtimeconfig.dev.json
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\bin\Debug\net5.0\HomeC_sharp 07 interfaces.dll
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\bin\Debug\net5.0\ref\HomeC_sharp 07 interfaces.dll
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\bin\Debug\net5.0\HomeC_sharp 07 interfaces.pdb
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\obj\Debug\net5.0\HomeC_sharp 07 interfaces.csprojAssemblyReference.cache
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\obj\Debug\net5.0\HomeC_sharp 07 interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\obj\Debug\net5.0\HomeC_sharp 07 interfaces.AssemblyInfoInputs.cache
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\obj\Debug\net5.0\HomeC_sharp 07 interfaces.AssemblyInfo.cs
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\obj\Debug\net5.0\HomeC_sharp 07 interfaces.csproj.CoreCompileInputs.cache
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\obj\Debug\net5.0\HomeC_sharp 07 interfaces.dll
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\obj\Debug\net5.0\ref\HomeC_sharp 07 interfaces.dll
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\obj\Debug\net5.0\HomeC_sharp 07 interfaces.pdb
+C:\Users\proto\source\repos\HomeC_sharp 07 interfaces\HomeC_sharp 07 interfaces\obj\Debug\net5.0\HomeC_sharp 07 interfaces.genruntimeconfig.cache
