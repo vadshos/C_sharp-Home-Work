@@ -1,0 +1,16 @@
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\bin\Debug\net5.0\Clock Events.exe
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\bin\Debug\net5.0\Clock Events.deps.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\bin\Debug\net5.0\Clock Events.runtimeconfig.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\bin\Debug\net5.0\Clock Events.runtimeconfig.dev.json
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\bin\Debug\net5.0\Clock Events.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\bin\Debug\net5.0\ref\Clock Events.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\bin\Debug\net5.0\Clock Events.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\obj\Debug\net5.0\Clock Events.csprojAssemblyReference.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\obj\Debug\net5.0\Clock Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\obj\Debug\net5.0\Clock Events.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\obj\Debug\net5.0\Clock Events.AssemblyInfo.cs
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\obj\Debug\net5.0\Clock Events.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\obj\Debug\net5.0\Clock Events.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\obj\Debug\net5.0\ref\Clock Events.dll
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\obj\Debug\net5.0\Clock Events.pdb
+D:\Study IT STEP academy\C_sharp-Home-Work\Home C_sharp 12\Clock Events\obj\Debug\net5.0\Clock Events.genruntimeconfig.cache

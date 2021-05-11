@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Home C_sharp 12/1.0.0": {
+        "runtime": {
+          "Home C_sharp 12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Home C_sharp 12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
